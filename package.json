@@ -15,7 +15,9 @@
     "minireset.css": "0.0.6",
     "next": "^9.3.1",
     "react": "^16.13.0",
-    "react-dom": "^16.13.0"
+    "react-dom": "^16.13.0",
+    "react-spring": "^8.0.27",
+    "react-use-tornis": "^0.1.4"
   },
   "devDependencies": {
     "@types/node": "^13.9.1",
