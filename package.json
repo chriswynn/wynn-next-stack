@@ -13,16 +13,16 @@
   "dependencies": {
     "@emotion/core": "^10.0.28",
     "minireset.css": "0.0.6",
-    "next": "^9.3.1",
-    "react": "^16.13.0",
-    "react-dom": "^16.13.0",
+    "next": "^9.3.6",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
     "react-spring": "^8.0.27",
     "react-use-tornis": "^0.1.4"
   },
   "devDependencies": {
-    "@types/node": "^13.9.1",
-    "@types/react": "^16.9.23",
-    "@types/theme-ui": "^0.3.0",
+    "@types/node": "^13.13.4",
+    "@types/react": "^16.9.34",
+    "@types/theme-ui": "^0.3.1",
     "typescript": "^3.8.3"
   }
 }
