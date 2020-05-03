@@ -11,11 +11,11 @@
   "author": "chriswynn",
   "license": "ISC",
   "dependencies": {
+    "@emotion/core": "^10.0.28",
     "minireset.css": "0.0.6",
     "next": "^9.3.1",
     "react": "^16.13.0",
-    "react-dom": "^16.13.0",
-    "theme-ui": "^0.3.1"
+    "react-dom": "^16.13.0"
   },
   "devDependencies": {
     "@types/node": "^13.9.1",
